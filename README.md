@@ -1,6 +1,6 @@
-# SimplyTapp Code Sample
+# SimplyTapp Android Code Sample
 
-In this project you will find a gradle.build file, an (nearly empty) Android Activity, and a couple of JSP files.
+In this project you will find a gradle.build file, an (nearly empty) Android Activity, and some resource files.
 
 Please use Gradle to build, run, or test the project. Feel free to add any dependencies that you care to.
 
